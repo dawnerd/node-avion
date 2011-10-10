@@ -1,0 +1,16 @@
+{
+  "author": "Troy Whiteley <troy@somanyscientists.com> (http://troywhiteley.com)",
+  "name": "avion",
+  "description": "Simple yet powerful batch processing library",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dawnerd/node-avion.git"
+  },
+  "main": "avion.js",
+  "engines": {
+    "node": "~v0.4.11"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
